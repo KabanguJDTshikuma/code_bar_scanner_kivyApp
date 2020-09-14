@@ -1,3 +1,3 @@
-# code_bar_scanner_kivyApp
+# Requirements
 
 https://github.com/kivy-garden/zbarcam/tree/master
